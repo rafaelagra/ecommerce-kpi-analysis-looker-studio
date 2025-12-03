@@ -46,18 +46,12 @@ Este projeto foi fundamental para o desenvolvimento e aplicação das seguintes 
 
 ## 🖼️ Visualização do Dashboard
 
-Inclua aqui as capturas de tela do seu dashboard para que o usuário possa visualizar o resultado final sem precisar do arquivo.
-
 ### 1. Principais Indicadores e Performance de Conversão
-
-*(Substitua `MÓDULO_2_GLS.pdf` pela imagem correta se tiver uma melhor, mas use o nome do arquivo que você forneceu, se ele for a visualização dos KPIs)*
 
 ![Principais Indicadores e Taxa de Conversão](dashboard___Gatito_Ecommerce.pdf) 
 _Visão dos principais indicadores de Receita, Transações, Ticket Médio, Taxa de Conversão e a evolução diária da taxa._
 
 ### 2. Comportamento e Engajamento do Usuário
-
-*(Substitua `MÓDULO_2_GLS.pdf` pela imagem correta se tiver uma melhor, mas use o nome do arquivo que você forneceu, se ele for a visualização dos KPIs)*
 
 ![Comportamento e Engajamento do Usuário](dashboard___Gatito_Ecommerce.pdf)
 _Visão das métricas de Sessões, Engajamento e a frequência de Usuários Ativos nos últimos 7 dias._
