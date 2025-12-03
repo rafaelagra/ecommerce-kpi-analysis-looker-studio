@@ -43,15 +43,3 @@ Este projeto foi fundamental para o desenvolvimento e aplicação das seguintes 
 * **Definição de KPIs:** Criação de campos calculados (como Taxa de Conversão e Ticket Médio) e uso de métricas de comparação de períodos para análise de performance.
 * **Visualização Eficaz:** Utilização de gráficos de linha (*time-series*) para analisar a evolução de métricas e *scorecards* com variações percentuais para uma leitura rápida dos KPIs.
 * **Design de Dashboards:** Aplicação de conceitos de hierarquia visual e organização de informações para criar um painel interativo e fácil de usar.
-
-## 🖼️ Visualização do Dashboard
-
-### 1. Principais Indicadores e Performance de Conversão
-
-![Principais Indicadores e Taxa de Conversão](dashboard___Gatito_Ecommerce.pdf) 
-_Visão dos principais indicadores de Receita, Transações, Ticket Médio, Taxa de Conversão e a evolução diária da taxa._
-
-### 2. Comportamento e Engajamento do Usuário
-
-![Comportamento e Engajamento do Usuário](dashboard___Gatito_Ecommerce.pdf)
-_Visão das métricas de Sessões, Engajamento e a frequência de Usuários Ativos nos últimos 7 dias._
